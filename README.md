@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang!</h1>
 <h3 align="center">A blockchain developer from Vietnam</h3>
 
-- 🌱 I’m currently learning to improve my programming skills in **Cosmos Ecosystem**
+- 🌱 I’m currently learning **Cosmos Ecosystem** for **Graduation purpose**.
 
 - 📖 I have strong foundation on **Solidity Ecosystem**, I'm researching on **Account Abstraction** in this field.
 
