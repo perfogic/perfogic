@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for people having the same interests.
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/perfogic)
+- 👨‍💻 All of my projects are available at [here](https://github.com/perfogic?tab=repositories)
 
 - 📫 How to reach me **longdieu12x@gmail.com**
 
