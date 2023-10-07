@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dang!</h1>
+<h3 align="center">A blockchain developer from Vietnam</h3>
 
-<!--
-**perfogic/perfogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning to improve my programming skills in **Cosmos Ecosystem**
 
-Here are some ideas to get you started:
+- 📖 I have strong foundation on **Solidity Ecosystem**, I'm researching on **Account Abstraction** in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Some tools, languages that I am currently using **solidity, go, nodejs**
+
+- 🤝 I’m looking for people having the same interests.
+
+- 👨‍💻 All of my projects are available at [here](https://github.com/perfogic)
+
+- 📫 How to reach me **longdieu12x@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/phạm-minh-đăng-4a6b9515b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhdang0710" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
