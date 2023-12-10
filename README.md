@@ -19,3 +19,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)](https://github.com/perfogic/github-profile-trophy)
