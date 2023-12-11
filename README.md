@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=perfogic" alt="https://github.com/perfogic" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfogic&show_icons=true&theme=cobalt)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
