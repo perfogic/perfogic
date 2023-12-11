@@ -22,6 +22,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=perfogic&label=Profile%20views&color=0e75b6&style=flat" alt="perfogic" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfogic&show_icons=true&theme=cobalt)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
