@@ -22,6 +22,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfogic&show_icons=true&theme=cobalt)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
