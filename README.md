@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **longdieu12x@gmail.com**
 
--  I used to create a blockchain course on Udemy in 2022, which will teach you about NFT, Auction: [Click here to see it if you are newbie to blockchain](https://www.udemy.com/course/real-time-nft-auction-with-solidity-blockchain-dapp)
+- 👨‍🏫 I used to create a blockchain course on Udemy in 2022, which will teach you about NFT, Auction: [Click here](https://www.udemy.com/course/real-time-nft-auction-with-solidity-blockchain-dapp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
