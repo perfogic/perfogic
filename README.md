@@ -15,6 +15,8 @@
 
 - 👨‍🏫 I used to create a blockchain course on Udemy in 2022, which will teach you about NFT, Auction: [Click here](https://www.udemy.com/course/real-time-nft-auction-with-solidity-blockchain-dapp)
 
+- 👛 My wallet is 0xb1ADE84566dB117B4B241fC446ceb1c46616e172. First five words is "blade" 🍵
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/phạm-minh-đăng-4a6b9515b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhdang0710" height="30" width="40" /></a>
