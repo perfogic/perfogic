@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dang!</h1>
 <h3 align="center">A blockchain developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Rust** for **Graduation purpose**.
+- 🌱 I’m currently working on **Bitcoin Bridge** for **Graduation and Work**.
 
-- 📖 I have strong foundation on **Solidity Ecosystem**.
+- 📖 I have strong foundation on **Solidity Ecosystem**, and I really love about both the core of blockchain and defi vulnerabilities.
 
-- 💬 Some tools, languages that I am currently using **solidity, go, nodejs**
+- 💬 Some tools, languages that I am currently using **rust, go, nodejs**
 
 - 🤝 I’m looking for people having the same interests.
 
