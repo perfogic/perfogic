@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang!</h1>
-<h3 align="center">A blockchain developer from Vietnam</h3>
+<h3 align="center">A blockchain engineer from Vietnam</h3>
 
-- 🌱 I’m currently working on **Bitcoin Bridge** for **Graduation and Work**.
+- 🌱 I’m currently working on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**.
 
 - 📖 I have strong foundation on **Solidity Ecosystem**, and I really love about both the core of blockchain and defi vulnerabilities.
 
