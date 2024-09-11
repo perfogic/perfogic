@@ -21,8 +21,13 @@
 </p>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx2OTI2N240MnFxdWYxZmY5NHJwaDI4MmQ0MTl6bHY5cmsxNm90OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQJNunHwZ32RGilGRO/giphy.gif" width="500" height="320" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
+📊 **Weekly development by perfogic:**
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
 
