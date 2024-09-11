@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 14 mins    ████████████░░░░░░░░░░░░░   48.15 %
+Solidity     47 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+Python       24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
