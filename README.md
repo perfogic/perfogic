@@ -23,6 +23,15 @@
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   9 hrs 37 mins   ███████████████████▒░░░░░   77.49 %
+Python       1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Solidity     49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Rust         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
