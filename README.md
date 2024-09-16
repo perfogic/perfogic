@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**.
 
-- 📖 I have strong foundation on **Solidity Ecosystem**, and I really love about both the core of blockchain and defi vulnerabilities.
+- 📖 I have strong foundation on **Solidity Ecosystem** and **Cosmos Ecosystem** , and I really love about both the core of blockchain and defi vulnerabilities.
 
 - 💬 Some tools, languages that I am currently using **rust, go, nodejs**
 
