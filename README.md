@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang!</h1>
 <h3 align="center">A blockchain engineer from Vietnam</h3>
 
-- 🌱 I’m currently working on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**.
+- 🌱 I used to join on building on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**. Currently, I'm building **CW-Bitcoin** which are launched on Mainnet now.
 
 - 📖 I have strong foundation on **Solidity Ecosystem** and **Cosmos Ecosystem** , and I really love about both the core of blockchain and defi vulnerabilities.
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **longdieu12x@gmail.com**
 
 - 👨‍🏫 I used to create a blockchain course on Udemy in 2022, which will teach you about NFT, Auction: [Click here](https://www.udemy.com/course/real-time-nft-auction-with-solidity-blockchain-dapp)
+
+- 🍀 I'm building a simple blockchain course which is for teaching about Blockchain on my university.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
