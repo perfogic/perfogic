@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=perfogic&theme=dark&background=000004)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
