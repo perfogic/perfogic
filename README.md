@@ -25,8 +25,4 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perfogic&show_icons=true&locale=en" alt="perfogic" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfogic&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
