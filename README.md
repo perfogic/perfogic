@@ -24,5 +24,3 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx2OTI2N240MnFxdWYxZmY5NHJwaDI4MmQ0MTl6bHY5cmsxNm90OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQJNunHwZ32RGilGRO/giphy.gif" width="500" height="320" />
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=perfogic&theme=dark&background=000004)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=perfogic&theme=onedark)]()
