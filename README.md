@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dang!</h1>
-<h3 align="center">A blockchain engineer from Vietnam</h3>
+<h3 align="center">A blockchain engineer from Vietnam, who are striving for becoming a truly research engineer</h3>
 
-- 🌱 I used to join on building on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**. Currently, I'm building **CW-Bitcoin** which are launched on Mainnet now.
+- 🌱 In 2025, I used to build on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**, which have launched on mainnet and received highly traffic volume. In 2026, i have an accepted paper on Data Availability Sampling, which was presented in ICBC conference on 4th June, 2026.
 
-- 📖 I have strong foundation on **Solidity Ecosystem** and **Cosmos Ecosystem** , and I really love about both the core of blockchain and defi vulnerabilities.
+- 📖 I have strong foundation on **Solidity Ecosystem** and **Cosmos Ecosystem** , and currently I'm immersing myself in blockchain network layer.
 
 - 💬 Some tools, languages that I am currently using **rust, go, nodejs**
 
