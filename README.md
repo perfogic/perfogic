@@ -1,4 +1,4 @@
-Hi 👋, I'm Dang!</h1>
+<h1 align="center">Hi 👋, I'm Dang!</h1>
 <h3 align="center">A blockchain engineer from Vietnam, who are striving for becoming a truly research engineer</h3>
 
 - 🇦🇺 In 2026, i have an accepted paper on **Data Availability Sampling**, which was presented in ICBC conference on 4th June, 2026 in Brisbane, Australia.
