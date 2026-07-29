@@ -2,7 +2,8 @@
 <h3 align="center">A blockchain engineer from Vietnam, who are striving for becoming a truly research engineer</h3>
 
 - 🇦🇺 In 2026, i have an accepted paper on **Data Availability Sampling**, which was presented in ICBC conference on 4th June, 2026 in Brisbane, Australia.
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8d0dbb8f-4061-4d57-b5a8-6de6839a713c" />
+  
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8d0dbb8f-4061-4d57-b5a8-6de6839a713c" />
 
 - 🌱 In 2025, I used to build on **Bitcoin Bridge** and **Ton Bridge** on **Oraichain**, which have launched on mainnet and received highly traffic volume.
 
